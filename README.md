@@ -1,6 +1,6 @@
 # README
 
-	This is a basic code in terraform to create in aws:  
+	This is a basic code in terraform to create organizations in aws:  
 		- ous
 		- accounts
 		- groups
