@@ -1,4 +1,8 @@
 tmp/
 temp/
 **.terraform**
-**.bk**
+**.bk**.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
